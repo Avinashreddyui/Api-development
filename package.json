@@ -1,0 +1,16 @@
+{
+  "name": "twitter-notes",
+  "version": "1.0.0",
+  "description": "aplication using node js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Avinash",
+  "license": "ISC",
+  "dependencies": {
+      "body-parser": "*",
+    "express": "^4.15.2",
+      "mongoose":"*"
+
+  }
+}
